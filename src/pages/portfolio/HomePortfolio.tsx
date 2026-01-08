@@ -141,7 +141,7 @@ export const Home = () => {
             </p>
           </div>
 
-            <img src="../imagenes/portada/Mina_adaptada.jpg" alt="gato bajo el sol-placeholder" 
+            <img src="./imagenes/portada/Mina_adaptada.jpg" alt="gato bajo el sol-placeholder" 
               width={400}
               className="h-fit object-contain rounded-2xl"
             />

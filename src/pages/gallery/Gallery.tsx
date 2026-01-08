@@ -20,7 +20,7 @@ export const Gallery = () => {
     
     </div>
 
- {/* VER QUE COÑO LE PASA OSTIA */}
+
     <div className="grid grid-cols-2 md:grid-cols-3 pl-10 pr-10 pt-10 gap-4 mx-auto">
 
       {

@@ -19,7 +19,7 @@ export const Info = () => {
         <div className="flex flex-col lg:justify-between items-center gap-1"> 
 
             <figure className="max-w-3xl mb-5" >
-            <img className="border rounded-2xl" src={`/imagenes/trabajos/${work.image}`} />
+            <img className="border rounded-2xl" src={`/mi-sitio/imagenes/trabajos/${work.image}`} />
             </figure>
 
             <div className="max-w-3xl mb-5 pb-4 pt-4 pl-4 pr-4 border-4 bg-gray-300 border-gray-300 rounded-2xl text-gray-900">

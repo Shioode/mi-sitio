@@ -7,7 +7,7 @@ import { Gallery, Home, Info } from "./pages"
 export const AppRouter = () => {
 
   return (
-    <BrowserRouter> 
+    <BrowserRouter basename="/mi-sitio/"> 
       <Routes>
 
         <Route path="/" element={ <Home />} /> Plantear si uso esta linea
